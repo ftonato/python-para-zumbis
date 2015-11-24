@@ -9,3 +9,4 @@ Exercícios do curso [Python para Zumbis](http://pycursos.com/python-para-zumbis
     - [Exercício 05](./list-01/class-05-resolved-ftonato-ademilson-flores-tonato.py)
     - [Exercício 06](./list-01/class-06-resolved-ftonato-ademilson-flores-tonato.py)
     - [Exercício 07](./list-01/class-07-resolved-ftonato-ademilson-flores-tonato.py)
+    - [Exercício 08](./list-01/class-08-resolved-ftonato-ademilson-flores-tonato.py)
