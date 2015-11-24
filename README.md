@@ -10,3 +10,6 @@ Exercícios do curso [Python para Zumbis](http://pycursos.com/python-para-zumbis
     - [Exercício 06](./list-01/class-06-resolved-ftonato-ademilson-flores-tonato.py)
     - [Exercício 07](./list-01/class-07-resolved-ftonato-ademilson-flores-tonato.py)
     - [Exercício 08](./list-01/class-08-resolved-ftonato-ademilson-flores-tonato.py)
+    - [Exercício 09](./list-01/class-09-resolved-ftonato-ademilson-flores-tonato.py)
+    - [Exercício 10](./list-01/class-10-resolved-ftonato-ademilson-flores-tonato.py)
+    - [Exercício 11](./list-01/class-11-resolved-ftonato-ademilson-flores-tonato.py)
