@@ -20,3 +20,5 @@ Exercícios do curso [Python para Zumbis](http://pycursos.com/python-para-zumbis
     - [Exercício 03](./list-02/class-03-resolved-ftonato-ademilson-flores-tonato.py)
     - [Exercício 04](./list-02/class-04-resolved-ftonato-ademilson-flores-tonato.py)
     - [Exercício 05](./list-02/class-05-resolved-ftonato-ademilson-flores-tonato.py)
+    - [Exercício 06](./list-02/class-06-resolved-ftonato-ademilson-flores-tonato.py)
+    - [Exercício 07](./list-02/class-07-resolved-ftonato-ademilson-flores-tonato.py)
