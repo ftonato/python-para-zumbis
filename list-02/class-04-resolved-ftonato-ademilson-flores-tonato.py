@@ -1,3 +1,5 @@
+# -*- coding: UTF-8 -*-
+
 # 4) Faça um Programa que leia três números e mostre o maior deles.
 amount = 0
 moreBig = None
